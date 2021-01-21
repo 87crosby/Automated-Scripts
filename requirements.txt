@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+datetime
+discord-webhook
+python-dotenv
+bs4
